@@ -15,7 +15,7 @@ html{
 
 header {
     
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.500), rgba(0, 0, 0, 0.500)),url(../vendors/css/bbhall.jpg);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.500), rgba(0, 0, 0, 0.500)),url(../images/bbhall.jpg);
     background-size: cover;
     background-position: right;
     height: 100vh;
